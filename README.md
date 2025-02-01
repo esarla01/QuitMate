@@ -16,8 +16,7 @@ QuitMate is a chatbot-powered personal support system designed to assist individ
 ## **Tech Stack**
 - **Frontend**: React.js with Tailwind CSS for a clean, modern user interface.
 - **Backend**: Flask API handling chat interactions and AI-driven responses.
-- **Database**: PostgreSQL (or similar) to store user conversations and session data.
-- **Hosting & Deployment**: AWS (S3 for frontend, Lambda for backend functions) for scalability and efficiency.
+- **Database**: MongoDb (or similar) to store user conversations and session data.
 
 ---
 
